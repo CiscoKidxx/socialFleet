@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "authors": [
+    "Chris Newell <cnewellchi@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.6",
+    "angular-bootstrap": "~0.12.0",
+    "angular-ui-router": "~0.2.13",
+    "satellizer": "~0.12.4"
+  },
+  "resolutions": {
+    "angular": "1.4.5"
+  }
+}
